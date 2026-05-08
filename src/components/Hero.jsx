@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import profileImage from '../assets/profile.jpg'
+import profileImage from '../assets/hero.jpg'
 import profileFallback from '../assets/profile-fallback.svg'
 import useTypingEffect from '../hooks/useTypingEffect'
 
@@ -20,7 +20,7 @@ function Hero() {
       >
         <p className="text-sm uppercase tracking-[0.25em] text-indigo-500">Hello, I am</p>
         <h1 className="mt-3 text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white md:text-6xl">
-          Moses
+          Prince Moses
         </h1>
         <p className="mt-4 min-h-8 text-xl font-semibold text-slate-700 dark:text-slate-200 md:text-2xl">
           {typedRole}
