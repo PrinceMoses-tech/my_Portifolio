@@ -18,27 +18,27 @@ export const skills = [
 
 export const projects = [
   {
-    title: 'E-Commerce Dashboard',
+    title: 'BookNest',
     description:
-      'A MERN admin dashboard with analytics, order management, and secure role-based access.',
-    tech: ['React', 'Node.js', 'MongoDB'],
-    github: 'https://github.com/',
-    demo: 'https://example.com/'
+    'A full-stack MERN bookstore web application with authentication, cart management, order processing, and responsive modern UI.',
+    tech: ['React', 'Node.js', 'Express.js', 'MongoDB'],
+    github: 'https://github.com/PrinceMoses-tech/bookNest',
+    demo: 'https://book.princedesigns.tech/'
   },
   {
-    title: 'TaskFlow Pro',
+    title: 'Personal Portfolio',
     description:
-      'A productivity app featuring drag-and-drop boards, deadlines, and real-time task updates.',
-    tech: ['React', 'Express', 'Socket.IO'],
-    github: 'https://github.com/',
-    demo: 'https://example.com/'
+      'A modern responsive frontend portfolio website showcasing my projects, skills, resume, and contact information with smooth animations and clean UI.',
+    tech: ['React', 'Tailwind CSS', 'JavaScript'],
+    github: 'https://github.com/PrinceMoses-tech/my_Portifolio',
+    demo: 'https://www.princedesigns.tech/'
   },
   {
-    title: 'Portfolio CMS',
+    title: 'EliteStore',
     description:
-      'A portfolio content manager that lets creators publish projects, blogs, and testimonials.',
-    tech: ['MongoDB', 'Node.js', 'Tailwind'],
-    github: 'https://github.com/',
-    demo: 'https://example.com/'
+    'A frontend-focused e-commerce web application showcasing responsive UI design, product browsing, category filtering, and shopping cart interface built with modern React development practices.',
+    tech: ['React', 'Tailwind CSS', 'JavaScript'],
+    github: 'https://github.com/PrinceMoses-tech/shopweaver-react',
+    demo: 'https://elitestore.vercel.app/'
   }
 ]
