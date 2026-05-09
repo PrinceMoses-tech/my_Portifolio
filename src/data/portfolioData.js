@@ -39,6 +39,6 @@ export const projects = [
     'A frontend-focused e-commerce web application showcasing responsive UI design, product browsing, category filtering, and shopping cart interface built with modern React development practices.',
     tech: ['React', 'Tailwind CSS', 'JavaScript'],
     github: 'https://github.com/PrinceMoses-tech/shopweaver-react',
-    demo: 'https://elitestore.vercel.app/'
+    demo: 'https://shopweaver-react.vercel.app/'
   }
 ]
